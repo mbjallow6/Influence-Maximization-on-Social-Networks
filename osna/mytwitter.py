@@ -12,7 +12,7 @@ from collections import Counter
 
 RATE_LIMIT_CODES = set([88, 130, 420, 429])
 
-credential = '{"consumer_key": "cqECMZAl3gGUvFGeQDoJrw0Y9", "consumer_secret": "EUh3NDcCmVlnlvPUXiz5mXJXbQvEboD20qqPfo9gPPOhR72zSU", "access_token": "1059539800078868482-X58VyPiTww4aRFfmRvlpvtsszKhixQ", "token_secret": "J25R79B9kWSV3YcDfenVeh4gjgJpGVkI55bfFFPh3ClnR"}'
+credential = '{"consumer_key": "", "consumer_secret": "", "access_token": "", "token_secret": ""}'
 
 class Twitter:
     def __init__(self):
